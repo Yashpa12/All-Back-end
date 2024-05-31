@@ -1,0 +1,123 @@
+// API : appliaction programing interface
+[
+    {
+      "id": 1001,
+      "imageUrl": "https://hub.dummyapis.com/Image?text=RR&height=120&width=120",
+      "firstName": "Raleigh",
+      "lastName": "Rath",
+      "email": "Raleigh.Rath@dummyapis.com",
+      "contactNumber": "4406098953",
+      "age": 48,
+      "dob": "15/04/1976",
+      "salary": 1.0,
+      "address": "Address1"
+    },
+    {
+      "id": 1002,
+      "imageUrl": "https://hub.dummyapis.com/Image?text=TH&height=120&width=120",
+      "firstName": "Terry",
+      "lastName": "Halvorson",
+      "email": "Terry.Halvorson@dummyapis.com",
+      "contactNumber": "4633890888",
+      "age": 25,
+      "dob": "02/11/1999",
+      "salary": 2.0,
+      "address": "Address2"
+    },
+    {
+      "id": 1003,
+      "imageUrl": "https://hub.dummyapis.com/Image?text=TB&height=120&width=120",
+      "firstName": "Thora",
+      "lastName": "Bins",
+      "email": "Thora.Bins@dummyapis.com",
+      "contactNumber": "4511293846",
+      "age": 43,
+      "dob": "02/01/1981",
+      "salary": 3.0,
+      "address": "Address3"
+    },
+    {
+      "id": 1004,
+      "imageUrl": "https://hub.dummyapis.com/Image?text=AK&height=120&width=120",
+      "firstName": "Adolphus",
+      "lastName": "Kautzer",
+      "email": "Adolphus.Kautzer@dummyapis.com",
+      "contactNumber": "4430295124",
+      "age": 32,
+      "dob": "02/12/1992",
+      "salary": 4.0,
+      "address": "Address4"
+    },
+    {
+      "id": 1005,
+      "imageUrl": "https://hub.dummyapis.com/Image?text=AG&height=120&width=120",
+      "firstName": "Alford",
+      "lastName": "Gusikowski",
+      "email": "Alford.Gusikowski@dummyapis.com",
+      "contactNumber": "4722493509",
+      "age": 56,
+      "dob": "01/04/1968",
+      "salary": 5.0,
+      "address": "Address5"
+    },
+    {
+      "id": 1006,
+      "imageUrl": "https://hub.dummyapis.com/Image?text=MB&height=120&width=120",
+      "firstName": "Magnolia",
+      "lastName": "Bins",
+      "email": "Magnolia.Bins@dummyapis.com",
+      "contactNumber": "4684691260",
+      "age": 78,
+      "dob": "10/04/1946",
+      "salary": 6.0,
+      "address": "Address6"
+    },
+    {
+      "id": 1007,
+      "imageUrl": "https://hub.dummyapis.com/Image?text=TR&height=120&width=120",
+      "firstName": "Therese",
+      "lastName": "Raynor",
+      "email": "Therese.Raynor@dummyapis.com",
+      "contactNumber": "4036497388",
+      "age": 45,
+      "dob": "27/10/1979",
+      "salary": 7.0,
+      "address": "Address7"
+    },
+    {
+      "id": 1008,
+      "imageUrl": "https://hub.dummyapis.com/Image?text=AK&height=120&width=120",
+      "firstName": "Asia",
+      "lastName": "Kihn",
+      "email": "Asia.Kihn@dummyapis.com",
+      "contactNumber": "4285593620",
+      "age": 44,
+      "dob": "01/10/1980",
+      "salary": 8.0,
+      "address": "Address8"
+    },
+    {
+      "id": 1009,
+      "imageUrl": "https://hub.dummyapis.com/Image?text=WF&height=120&width=120",
+      "firstName": "Walter",
+      "lastName": "Fay",
+      "email": "Walter.Fay@dummyapis.com",
+      "contactNumber": "4945894638",
+      "age": 39,
+      "dob": "09/10/1985",
+      "salary": 9.0,
+      "address": "Address9"
+    },
+    {
+      "id": 1010,
+      "imageUrl": "https://hub.dummyapis.com/Image?text=MH&height=120&width=120",
+      "firstName": "Marjorie",
+      "lastName": "Howe",
+      "email": "Marjorie.Howe@dummyapis.com",
+      "contactNumber": "4699999171",
+      "age": 78,
+      "dob": "17/02/1946",
+      "salary": 10.0,
+      "address": "Address10"
+    }
+  ]
